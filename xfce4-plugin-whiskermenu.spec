@@ -2,12 +2,12 @@
 
 Summary:	An alternate menu for the Xfce desktop environment
 Name:		xfce4-plugin-whiskermenu
-Version:	1.2.0
+Version:	1.2.1
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://gottcode.org/xfce4-whiskermenu-plugin/%{org_name}-%{version}-src.tar.bz2
-# Source0-md5:	bf57b4c8cc629c93ee435e7ac5d46b45
+# Source0-md5:	d17a931096b1e7ae1e5b2f0c2a4daaa5
 URL:		http://gottcode.org/xfce4-whiskermenu-plugin/
 BuildRequires:	cmake
 BuildRequires:	exo-devel
